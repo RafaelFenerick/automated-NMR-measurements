@@ -7,5 +7,5 @@ Time-Domain Nuclear Magnetic Resonance (TDNMR) is a powerful method to character
 ## Authors
 Rafael Fenerick, Eduardo R. Azevedo, and Tiago B. Moraes
 
-#License
+##License
 This project is under license GNU GPLv3 License.
