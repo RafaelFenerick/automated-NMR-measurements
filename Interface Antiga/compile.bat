@@ -1,0 +1,1 @@
+C:\Python27\Scripts\pyinstaller PNMR_GUI.py --onefile

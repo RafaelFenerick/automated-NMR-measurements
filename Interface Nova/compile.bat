@@ -1,0 +1,1 @@
+"C:\Users\Rafael Fenerick\AppData\Local\Programs\Python\Python36\Scripts\pyinstaller.exe" PyQT_GUI.py
