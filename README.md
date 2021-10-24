@@ -8,4 +8,4 @@ Time-Domain Nuclear Magnetic Resonance (TDNMR) is a powerful method to character
 Rafael Fenerick, Eduardo R. Azevedo, and Tiago B. Moraes
 
 #License
-This project is under license GNU GPLv3 License - veja [LICENSE.md](LICENSE.md) see for more details.
+This project is under license GNU GPLv3 License.
